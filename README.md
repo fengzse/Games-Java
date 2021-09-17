@@ -1,2 +1,2 @@
 # Games-Java
-Some simple games wrote by Java
+Collection of some simple games wrote by Java
